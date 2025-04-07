@@ -1,4 +1,4 @@
-# Numerical Methods – Homework 5
+#Derivative Accuracy and Rocket Velocity Root Finding
 
 This project includes two MATLAB exercises covering numerical estimation and root-solving techniques.
 
